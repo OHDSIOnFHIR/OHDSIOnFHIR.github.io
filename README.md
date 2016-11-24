@@ -1,2 +1,2 @@
 # OHDSIOnFHIR.github.io
-OHDSI on FHIR
+The OHDSI on FHIR Initiative
